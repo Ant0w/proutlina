@@ -1,2 +1,2 @@
 # ProutLina 🌼
-Hébergée avec GitHub Pages — domaine personnalisé `antow.fr`
+Site public avec souffles animés et lien taap.it
