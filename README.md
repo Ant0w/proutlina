@@ -1,2 +1,2 @@
 # ProutLina 🌼
-Site public avec souffles animés et lien taap.it
+Hébergée avec GitHub Pages — domaine personnalisé `proutlina.fr`
